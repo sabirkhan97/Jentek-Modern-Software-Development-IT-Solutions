@@ -71,7 +71,7 @@ export function Hero({
       />
 
       {/* ─── Nav ─── */}
-      <nav
+      {/* <nav
         className="relative z-10 flex items-center justify-between"
         style={{
           padding: '1.5rem 3rem',
@@ -132,7 +132,7 @@ export function Hero({
         >
           Get Started
         </a>
-      </nav>
+      </nav> */}
 
       {/* ─── Hero Body ─── */}
       <div
